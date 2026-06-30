@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Folk
 
-<!--
-**folfolk/folfolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst with experience in Customer Insights, Voice of Customer (VoC), and Business Intelligence.
 
-Here are some ideas to get you started:
+I specialize in transforming business data into actionable insights through SQL, Excel, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Skills
+
+- SQL
+- Excel
+- Power BI
+- Customer Analytics
+- Data Cleaning
+- KPI Reporting
+- Business Analysis
+
+### 📚 Currently Learning
+
+- Python
+- Pandas
+- Git
+- Machine Learning
+
+### 📂 Featured Projects
+
+- Customer Satisfaction Dashboard
+- SQL Interview Practice
+- Excel KPI Dashboard
+- Data Cleaning Toolkit
+- Voice of Customer Analytics
+
+Always learning, always building.
